@@ -53,6 +53,24 @@ public class Main extends JFrame {
        // con3.anchor = GridBagConstraints.NORTH;
         jPanel.add(B.getChange(),con3);
 
+        con1.weightx = 0;
+        con1.weighty = 0;
+        con1.gridx = 1;
+        con1.gridy = 1;
+        con1.gridheight = 1;
+        con1.gridwidth = 1;
+
+        jPanel.add(B.getNewgame(),con1);
+        B.getNewgame().setVisible(false);
+
+        con2.weightx = 0;
+        con2.weighty = 0;
+        con2.gridx = 2;
+        con2.gridy = 1;
+        con2.gridheight = 1;
+        con2.gridwidth = 1;
+        jPanel.add(B.getClosegame(),con2);
+        B.getClosegame().setVisible(false);
        /* GridBagConstraints con4 = new GridBagConstraints();
 
         con4.weightx = 0;
@@ -124,11 +142,25 @@ public class Main extends JFrame {
          // jPanel.revalidate();
 
     }
+    static void refreshgame(JPanel jp, Buttons B){
+        B.startGame();
+
+        jp.revalidate();
+    }
+
+    static void finishgame(){
+        String message= "YOU WON!";
+        JOptionPane.showMessageDialog(null,
+                message,
+                "RESULT",
+                JOptionPane.PLAIN_MESSAGE);
+
+    }
 
     static JFrame getFrame(){
         JFrame jFrame = new JFrame("IT'S A TRAP GAME v1.0"){};
         jFrame.setVisible(true);
-        jFrame.setBounds(500,0,800,868);
+        jFrame.setBounds(500,0,800,615);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jFrame.setResizable(true);
         return jFrame;

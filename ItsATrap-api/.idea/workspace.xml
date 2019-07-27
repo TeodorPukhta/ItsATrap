@@ -1,31 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Randomizer.java" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6132c8af-7107-46c4-99a4-095af2e62425" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Buttons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Randomizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ItsATrap-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ItsATrap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap-api/BorderExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap-api/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap-api/Main$Button1EventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap-api/Main$Button2EventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap-api/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/Buttons$ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/Buttons$ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/Buttons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/Buttons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/FakeImages/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/Main$Button1Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/Main$Button1Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/Randomizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/Randomizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ItsATrap/TrueImages/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buttons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FakeImages/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FakeImages/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FakeImages/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FakeImages/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FakeImages/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FakeImages/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FakeImages/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FakeImages/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FakeImages/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FakeImages/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FakeImages/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FakeImages/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FakeImages/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FakeImages/7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/Fake/PKrLkFXzK6Y.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/Fake/PjXZBudK-yA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/Fake/Q8w7fFxD_oY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/Fake/RuPbb0V8ki0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/Fake/ScreenShot00131.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/Fake/TaaAZvzWtn0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/Fake/Y86LBF8t40k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/True/GTpOndYYCWk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/True/K94a-MgiMRs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/True/Le_Songe_de_Tartini_par_Louis-Léopold_Boilly_1824.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/True/OjFKfIgsGsA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/True/jEUohDNRIYo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/True/litmFeueEik.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Randomizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Randomizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrueImages/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrueImages/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrueImages/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrueImages/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrueImages/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrueImages/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrueImages/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrueImages/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrueImages/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrueImages/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrueImages/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrueImages/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrueImages/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrueImages/7.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,34 +55,36 @@
     <session id="-1544446421">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="21" />
+          <entry key="java" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4596" />
+          <entry key="java" value="6427" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4596" />
+          <entry key="JAVA" value="6427" />
         </counts>
       </usages-collector>
     </session>
@@ -76,28 +95,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Randomizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="66" column="36" lean-forward="true" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+            <state relative-caret-position="2445">
+              <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2542#2543#0" expanded="true" />
-                <element signature="e#2570#2571#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Buttons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="67" column="43" lean-forward="true" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+            <state relative-caret-position="104">
+              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,8 +135,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/BorderExample.java" />
         <option value="$PROJECT_DIR$/src/Randomizer.java" />
-        <option value="$PROJECT_DIR$/src/Buttons.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Buttons.java" />
       </list>
     </option>
   </component>
@@ -149,7 +152,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,12 +174,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562880568917" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564259054610" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -237,15 +240,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.25321338" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49799198" visible="true" weight="0.25899744" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49799198" weight="0.2718509" />
+      <window_info id="Structure" order="6" side_tool="true" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50064266" side_tool="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32884097" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4993573" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39892185" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32884097" />
@@ -265,14 +268,14 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.25321338" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49799198" visible="true" weight="0.25642672" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49799198" weight="0.2718509" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50064266" side_tool="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4993573" visible="true" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.4993573" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -336,32 +339,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Randomizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="-441">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="66" column="36" lean-forward="true" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        <state relative-caret-position="2445">
+          <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2542#2543#0" expanded="true" />
-            <element signature="e#2570#2571#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Buttons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="67" column="43" lean-forward="true" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+        <state relative-caret-position="104">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
